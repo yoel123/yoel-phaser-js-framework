@@ -6,6 +6,10 @@ https://github.com/yoel123/yoel-html5-game-engine-tutorials
 
 each file contain an example usege of my frameworks features.
 
+the "1)template" is a template of the framework if you want to create a project.
+to use phaser you will need a server (or a local server like wamp).
+
+
 soon i will create written and video tuts for it.
 
 if theirs any mistake or something you dont understand please contact me.
