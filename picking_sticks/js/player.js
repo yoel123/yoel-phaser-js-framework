@@ -22,7 +22,7 @@ player.prototype =
 	{
 		this.yinit();
 		yentity_p.kyboard_control.call(this);
-		//this.pick_stick();
+		this.pick_stick();
 		this.sprite_change();
 		yentity_p.update.call(this);
 	}, //end update
