@@ -16,7 +16,7 @@ yengine.Preloader.prototype = {
 
 		//img
         //this.load.image('sky', 'images/sky.png');
-        this.load.image('star', 'images/star.png');
+        this.load.image('star', 'images/Star.png');
         this.load.image('sun', 'images/sun.png');
 
 		
